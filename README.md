@@ -56,7 +56,7 @@ Você pode instalar todos os pacotes de uma vez utilizando o seguinte comando:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
-
+```
 
 
 ## Sequência de Estudo
